@@ -27,3 +27,4 @@ This project processes, cleans, and analyzes transactional data across orders, o
 * **Scale Inventory Ahead of Q4:** Advance inventory preparation and ramp up early marketing campaigns to maximize the November demand spike[cite: 2, 10].
 * **Mitigate Furniture Returns:** Improve product descriptions, dimension guides, and handling quality control for high-value furniture items to protect margins against the **14.5%** return rate.
 
+
